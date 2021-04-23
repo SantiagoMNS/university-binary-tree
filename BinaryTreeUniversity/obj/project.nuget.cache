@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7f7x4SHBrfIOMzmLlyuKT+fZKN1HQXAmAMaXOCvYwfrExOhO2Z+MTIWWGWF1zQw7zh1KQaNbxL0f33AzmMTtoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SOPORTE\\Documents\\PROGRAMACIÓN III - SANTIAGO NOREÑA\\BinaryTreeUniversity\\BinaryTreeUniversity\\University-binary-tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SOPORTE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
